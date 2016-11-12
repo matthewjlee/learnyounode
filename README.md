@@ -1,2 +1,3 @@
 # learnyounode
-my files for learnyounode
+The repository containing my solutions to learnyounnode. 
+
